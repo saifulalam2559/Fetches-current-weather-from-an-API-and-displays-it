@@ -1,6 +1,5 @@
 # Fetches-current-weather-from-an-API-and-displays-it
 
-# Daily PHP Micro-Projects
 
 ## Project: Weather Fetcher
 Fetches current weather for a city using OpenWeatherMap API.
